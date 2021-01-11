@@ -241,9 +241,11 @@ margin-top: 20px;
         }
         .text-big{
             text-align: center;
+            color: black;
         }
         .text-small{
             text-align: center;
+            color:  black;
         }
         .buttons{
             text-align: center;
